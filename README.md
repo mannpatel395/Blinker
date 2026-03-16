@@ -1,6 +1,7 @@
 # Blinker
 Making 10 LEDs blink using 555 fundametal
 
+
 ## PCB:
 
 Schematics:
@@ -8,7 +9,7 @@ Schematics:
 <img width="887" height="628" alt="image" src="https://github.com/user-attachments/assets/2061a0b3-af4d-44fa-9c3b-f1464ea97e97" />
 
 
-## PCB:
+PCB:
 
 <img width="777" height="693" alt="image" src="https://github.com/user-attachments/assets/a26cf23f-f9cf-4a74-9faa-7b99f3a47538" />
 
