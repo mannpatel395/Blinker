@@ -16,7 +16,3 @@ Schematics:
 ## 3D View:
 
 <img width="1722" height="930" alt="image" src="https://github.com/user-attachments/assets/2b3d7b3b-1c33-473f-9cc1-f25f1082fbf4" />
-
-
-## Final model
-
